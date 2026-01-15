@@ -33,6 +33,6 @@ MatrixHub streamlines the transition from public model hubs to production-grade 
 
 ## Community, discussion, contribution, and support
 
-You can reach the maintainers of this project at:
+Slack is our primary channel for community discussion, contribution coordination, and support. You can reach the maintainers and community at:
 
 - [Slack](https://cloud-native.slack.com/archives/C0A8UKWR8HG)
